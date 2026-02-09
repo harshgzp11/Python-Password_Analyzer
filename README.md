@@ -35,8 +35,8 @@ This project is built using **functions and modules**, following clean and modul
 ## 📂 Project Structure
 
 
-password_utils.py      # Contains all password validation logic
-passwordAnalyzer.py    # Handles user input and output
+password_utils.py (Contains all password validation logic)
+passwordAnalyzer.py (Handles user input and output)
 
 
 ---
