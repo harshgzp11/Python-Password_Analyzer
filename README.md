@@ -34,10 +34,10 @@ This project is built using **functions and modules**, following clean and modul
 
 ## 📂 Project Structure
 
-```
+
 password_utils.py      # Contains all password validation logic
 passwordAnalyzer.py    # Handles user input and output
-```
+
 
 ---
 
@@ -45,15 +45,14 @@ passwordAnalyzer.py    # Handles user input and output
 
 Make sure both files are in the same folder, then run:
 
-```bash
+
 python passwordAnalyzer.py
-```
 
 ---
 
 ## 🧪 Example Output
 
-```
+
 Enter your password: abc
 Password strength: Weak
 Suggestions:
@@ -61,7 +60,7 @@ Suggestions:
 - Add a digit
 - Use a special character
 - Increase password length
-```
+
 
 ---
 
